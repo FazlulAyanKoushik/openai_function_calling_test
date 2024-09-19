@@ -1,4 +1,4 @@
-# This project is a simple implementation of OpenAI function calling API.
+# This project is a simple implementation of OpenAI function calling tool.
 
 ## create a virtual environment
 ```bash
